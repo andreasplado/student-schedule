@@ -1,4 +1,4 @@
-﻿# student-scedule
+﻿# Student scedule
 
 Run this app with ```gradle bootrun```
 
